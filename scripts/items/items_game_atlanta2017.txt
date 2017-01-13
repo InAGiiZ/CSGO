@@ -1,7 +1,7 @@
 
-"items"
+	"items"
 	{
-"941"
+		"941"
 		{
 			"name"		"ELEAGUE Atlanta 2017 CS:GO Champion"
 			"prefab"		"collectible_untradable"
